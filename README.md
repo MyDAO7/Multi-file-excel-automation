@@ -143,7 +143,7 @@ Look for Sales_report_Monthly.xlsx in the same folder.
 ### Project Structure
 multi-file-excel-processor/
 │
-├── main.py                 ← The script (run this)
+├── code.py               ← The script (run this)
 ├── requirements.txt        ← What it needs to work
 ├── README.md              ← This file
 │
