@@ -129,7 +129,7 @@ If a file is corrupt or has the wrong format, it's listed here. The rest of your
 ```bash
 git clone https://github.com/MyDAO7/multi-file-excel-processor.git
 cd multi-file-excel-processor
-### **Step 2: Install requirements**
+**** Step 2: Install requirements
 bash
 pip install -r requirements.txt
 **Step 3: Add your files**
