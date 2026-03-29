@@ -129,16 +129,16 @@ If a file is corrupt or has the wrong format, it's listed here. The rest of your
 ```bash
 git clone https://github.com/MyDAO7/multi-file-excel-processor.git
 cd multi-file-excel-processor
-Step 2: Install requirements
+### **Step 2: Install requirements**
 bash
 pip install -r requirements.txt
-Step 3: Add your files
+**Step 3: Add your files**
 Copy all your Excel files into the client_files folder.
 
-Step 4: Run the script
+**Step 4: Run the script**
 bash
 python main.py
-Step 5: Get your report
+**Step 5: Get your report**
 Look for Sales_report_Monthly.xlsx in the same folder.
 ### Project Structure
 multi-file-excel-processor/
