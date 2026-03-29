@@ -5,27 +5,6 @@ import os
 import openpyxl
 import matplotlib.pyplot as plt
 from datetime import datetime, timedelta
-"""
-✅ Python script that processes all files
-
-✅ Handles missing values per my rules
-
-✅ Standardizes column names
-
-✅ Converts all dates to YYYY-MM-DD
-
-✅ Removes extra rows
-
-✅ Adds source filename column
-
-✅ Combines all into one master sheet
-
-✅ Creates monthly summary sheet
-
-✅ Logs errors (which files failed)
-"""
-
-
 
 def file_reader(filename):
     errors=[]
