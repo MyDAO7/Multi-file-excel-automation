@@ -127,7 +127,7 @@ If a file is corrupt or has the wrong format, it's listed here. The rest of your
 
 ### Step 1: Get the code
 ```bash
-git clone https://github.com/MyDAO7/multi-file-excel-processor.git
+git clone https://github.com/MyDAO7/Multi-file-excel-automation
 cd multi-file-excel-processor
 **** Step 2: Install requirements
 bash
